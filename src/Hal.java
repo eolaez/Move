@@ -25,6 +25,7 @@ public class Hal {
 		// TODO Auto-generated method stub
 		
         System.out.println("Siuuu!!");
+        System.out.println("Demo!");
         Robot hal = new Robot();
         Random random = new Random();
         int c=0;
